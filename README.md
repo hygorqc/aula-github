@@ -6,3 +6,4 @@
 Esse repositório foi criado para realizar as atividades do bootcamp,
 onde irei compartilhar meus aprendizados na pratica.
 * comando git push
+* comando git pull
